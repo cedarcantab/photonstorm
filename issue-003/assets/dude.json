@@ -2,7 +2,7 @@
 
 {
 	"filename": "climb1.png",
-	"frame": {"x":0,"y":84,"w":29,"h":41},
+	"frame": {"x":0,"y":168,"w":29,"h":41},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
@@ -10,39 +10,63 @@
 },
 {
 	"filename": "climb2.png",
-	"frame": {"x":0,"y":125,"w":29,"h":41},
+	"frame": {"x":0,"y":209,"w":29,"h":41},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":7,"w":29,"h":41},
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "idle1.png",
-	"frame": {"x":0,"y":207,"w":29,"h":40},
+	"filename": "idle-front1.png",
+	"frame": {"x":0,"y":0,"w":29,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":6,"w":29,"h":42},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "idle-front2.png",
+	"frame": {"x":0,"y":250,"w":29,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "idle-front3.png",
+	"frame": {"x":0,"y":373,"w":29,"h":40},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":8,"w":29,"h":40},
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "idle2.png",
-	"frame": {"x":0,"y":247,"w":29,"h":40},
+	"filename": "idle-right1.png",
+	"frame": {"x":0,"y":42,"w":29,"h":42},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":8,"w":29,"h":40},
+	"spriteSourceSize": {"x":1,"y":6,"w":29,"h":42},
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "idle3.png",
-	"frame": {"x":0,"y":287,"w":29,"h":39},
+	"filename": "idle-right2.png",
+	"frame": {"x":0,"y":291,"w":29,"h":41},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":9,"w":29,"h":39},
+	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "idle-right3.png",
+	"frame": {"x":0,"y":413,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":29,"h":40},
 	"sourceSize": {"w":32,"h":48}
 },
 {
 	"filename": "right1.png",
-	"frame": {"x":0,"y":166,"w":29,"h":41},
+	"frame": {"x":0,"y":332,"w":29,"h":41},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
@@ -50,7 +74,7 @@
 },
 {
 	"filename": "right2.png",
-	"frame": {"x":0,"y":0,"w":29,"h":42},
+	"frame": {"x":0,"y":84,"w":29,"h":42},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":5,"w":29,"h":42},
@@ -58,7 +82,7 @@
 },
 {
 	"filename": "right3.png",
-	"frame": {"x":0,"y":166,"w":29,"h":41},
+	"frame": {"x":0,"y":332,"w":29,"h":41},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
@@ -66,7 +90,7 @@
 },
 {
 	"filename": "right4.png",
-	"frame": {"x":0,"y":42,"w":29,"h":42},
+	"frame": {"x":0,"y":126,"w":29,"h":42},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":5,"w":29,"h":42},
@@ -77,8 +101,8 @@
 	"version": "1.0",
 	"image": "dude.png",
 	"format": "RGBA8888",
-	"size": {"w":29,"h":326},
+	"size": {"w":29,"h":453},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:12edc3705a09ea4e7b5f733b38f4ace4:3b612c89934e9a5d27b0fb37f4ba50d1:91b0136f103a2ad004f02a846859646f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:fe6e55f6110543649eef386a4b33fbeb:3b553e3e1cda81c8a8c2f86b77bbc35d:91b0136f103a2ad004f02a846859646f$"
 }
 }
