@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "climb1.png",
+	"frame": {"x":0,"y":84,"w":29,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "climb2.png",
+	"frame": {"x":0,"y":125,"w":29,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "Idle1.png",
+	"frame": {"x":0,"y":207,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":29,"h":40},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "Idle2.png",
+	"frame": {"x":0,"y":247,"w":29,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":29,"h":40},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "Idle3.png",
+	"frame": {"x":0,"y":287,"w":29,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":9,"w":29,"h":39},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "right1.png",
+	"frame": {"x":0,"y":166,"w":29,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "right2.png",
+	"frame": {"x":0,"y":0,"w":29,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":29,"h":42},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "right3.png",
+	"frame": {"x":0,"y":166,"w":29,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":29,"h":41},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "right4.png",
+	"frame": {"x":0,"y":42,"w":29,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":29,"h":42},
+	"sourceSize": {"w":32,"h":48}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dude.png",
+	"format": "RGBA8888",
+	"size": {"w":29,"h":326},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbe6317894a347c801662f48f1dcc225:573897ed0d4845053949d0785a1ecc6d:c3b237f3140319f2e79e40036b344cfe$"
+}
+}
