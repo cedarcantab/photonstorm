@@ -33,7 +33,7 @@
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "Idle3.png",
+	"filename": "idle3.png",
 	"frame": {"x":0,"y":287,"w":29,"h":39},
 	"rotated": false,
 	"trimmed": true,
@@ -79,6 +79,6 @@
 	"format": "RGBA8888",
 	"size": {"w":29,"h":326},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:cbe6317894a347c801662f48f1dcc225:573897ed0d4845053949d0785a1ecc6d:c3b237f3140319f2e79e40036b344cfe$"
+	"smartupdate": "$TexturePacker:SmartUpdate:cc037f0845f87f7cb471d6f98df067bb:161015aeacd7adfe3eb367f27f14119d:c3b237f3140319f2e79e40036b344cfe$"
 }
 }
