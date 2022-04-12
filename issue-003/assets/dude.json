@@ -17,7 +17,7 @@
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "Idle1.png",
+	"filename": "idle1.png",
 	"frame": {"x":0,"y":207,"w":29,"h":40},
 	"rotated": false,
 	"trimmed": true,
@@ -25,7 +25,7 @@
 	"sourceSize": {"w":32,"h":48}
 },
 {
-	"filename": "Idle2.png",
+	"filename": "idle2.png",
 	"frame": {"x":0,"y":247,"w":29,"h":40},
 	"rotated": false,
 	"trimmed": true,
@@ -79,6 +79,6 @@
 	"format": "RGBA8888",
 	"size": {"w":29,"h":326},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:cc037f0845f87f7cb471d6f98df067bb:161015aeacd7adfe3eb367f27f14119d:c3b237f3140319f2e79e40036b344cfe$"
+	"smartupdate": "$TexturePacker:SmartUpdate:12edc3705a09ea4e7b5f733b38f4ace4:3b612c89934e9a5d27b0fb37f4ba50d1:91b0136f103a2ad004f02a846859646f$"
 }
 }
